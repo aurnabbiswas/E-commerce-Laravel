@@ -1,0 +1,1 @@
+"# CSE470-project"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/aurnabbiswas/CSE470-project.gitgit push -u origin main
