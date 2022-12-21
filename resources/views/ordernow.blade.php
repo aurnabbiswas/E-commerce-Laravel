@@ -31,9 +31,11 @@
                 </div>
                 <div class="form-group">
                   <label for="pwd">Payment Method</label> <br> <br>
-                  <input type="radio" value="cash" name="payment"> <span>online payment</span> <br> <br>
-                  <input type="radio" value="cash" name="payment"> <span>EMI payment</span> <br><br>
-                  <input type="radio" value="cash" name="payment"> <span>Payment on Delivery</span> <br> <br>
+                  <input type="radio" value="card" name="payment"> <span>online payment</span> <br> <br>
+                  <input type="radio" value="card" name="payment"> <span>EMI payment</span> <br><br>
+                  <input type="radio" value="cash" name="payment"> <span>Cash on Delivery</span> <br> <br>
+                  <input type="radio" value="moblie payment " name="payment"> <span>Bkash Payment</span> <br> <br>
+                  <input type="radio" value="mobile payment" name="payment"> <span>Nagad payment</span> <br> <br>
 
                 </div>
                 <button type="submit" class="btn btn-default">Order Now</button>
